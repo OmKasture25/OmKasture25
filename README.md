@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science Engineering in AI...
 - # Skills
 - Programming: Python, C, C++ 
-# Progects\
+# Projects\
 none
 # Github Stats
 none
