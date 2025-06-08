@@ -2,8 +2,8 @@
 - 🔭 I’m currently studying in G.H.Raisoni College of Engineering and Management ...
 - 🌱 I’m currently learning Computer Science Engineering in AI...
 - # Skills
-- Programming: Python, C, C++ 
-# Projects\
+- Programming: Python, C, C++, HTML, CSS, JS, ReactJS
+# Projects
 none
 # Github Stats
 none
